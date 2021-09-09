@@ -149,7 +149,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: openwrt_armvirt_${{ env.PACKAGED_OUTPUTDATE }}
+        tag_name: R${{ env.PACKAGED_OUTPUTDATE }} for N1
         files: ${{ env.PACKAGED_OUTPUTPATH }}/*
         body: |
           斐讯N1固件
