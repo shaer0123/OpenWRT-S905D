@@ -158,10 +158,10 @@ jobs:
             Default IP: 192.168.3.1
             Default username: root
             Default password: AF^EXQ@Fan4B*p
-            N1全新安装方法：
+            * N1全新安装方法：
              1. cd root
              2. ./install-to-emmc.sh
-            N1在线升级方法：
+            * N1在线升级方法：
              1. cd /mnt/mmcblk2p4
              2. wget 升级脚本链接,鼠标右击后缀.sh文件获取链接地址
              3. wget img.gz后缀名的固件链接,鼠标右击后缀.img.gz文件获取链接地址
