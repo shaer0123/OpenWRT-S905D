@@ -143,7 +143,12 @@ jobs:
         WHOAMI: 白色の物语
         ENABLE_WIFI_K510: 1
         OPENWRT_VER: R21.9.10
-    
+
+    - name: copy update files
+      run: |
+        cd /opt/openwrt_packit
+        sudo cp files/update-amlogic-openwrt.sh tmp/update-amlogic-openwrt.sh
+
     - name: Upload OpenWrt Firmware to Releases
       uses: softprops/action-gh-release@v1
       env:
