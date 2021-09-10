@@ -10,6 +10,8 @@
 
 > 默认网关：192.168.3.1 默认主题：argon 默认密码：AF^EXQ@Fan4B*p
 
+> 当前内核：5.14.2
+
 [![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-S905D/Build%20OpenWrt?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-S905D/actions)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/Aibx/OpenWRT-S905D?style=for-the-badge&label=Download)](https://github.com/Aibx/OpenWRT-S905D/releases/latest)
 - 本项目为斐讯N1固件自动编译打包脚本仓库，每日0:30 UTC(北京时间8:30)和12:30 UTC(北京时间20:30)自动编译，预计4小时完成编译工作
