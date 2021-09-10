@@ -49,5 +49,6 @@ Passwall全家桶回归
 ## 致谢
 - [Liuran001](https://github.com/liuran001)：OpenWRT常用软件自动更新脚本作者
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)：GitHub Actions云编译OpenWrt脚本
+- [Flippy's OpenWrt](https://github.com/unifreq/openwrt_packit)：Flippy的OpenWRT打包源码
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)：Lean的OpenWRT源码仓库
 - [Lienol's OpenWrt](https://github.com/Lienol/openwrt)：Lienol的OpenWRT源码仓库
