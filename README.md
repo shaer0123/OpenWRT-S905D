@@ -21,6 +21,10 @@
 
 > 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-S905D/actions?query=workflow%3A%22Build+OpenWrt%22)内下载文件名含"OpenWrt_bin"的文件
 
+## 版本选择
+- 带有+的内核版本为5.10+，内核较新，含有新特性，但相对可能更加不稳定
+- 带有+o的为5.4+内核，内核更为稳定，但缺少新特性
+
 ## 更新记录
 
 - V1.0  
