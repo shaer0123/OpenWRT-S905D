@@ -39,7 +39,7 @@ Passwall全家桶回归
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 
-- [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-R619AC)：竞斗云2.0自动编译仓库,内含IPK及最新固件
+- [OpenWRT-R619AC](https://github.com/Aibx/OpenWRT-R619AC)：竞斗云2.0自动编译仓库,内含IPK及最新固件
 
 ## 致谢
 - [Liuran001](https://github.com/liuran001)：OpenWRT常用软件自动更新脚本作者
