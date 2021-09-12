@@ -10,7 +10,7 @@
 
 > 默认网关：192.168.3.1 默认主题：argon 默认密码：AF^EXQ@Fan4B*p
 
-> 当前内核：5.14.2|5.10.63|5.4.144 
+> 当前内核：5.14.3|5.10.64|5.4.145
 
 [![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-S905D/Build%20OpenWrt?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-S905D/actions)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/Aibx/OpenWRT-S905D?style=for-the-badge&label=Download)](https://github.com/Aibx/OpenWRT-S905D/releases/latest)
