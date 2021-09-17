@@ -162,7 +162,7 @@ jobs:
             ## Openwrt🚀
             Default IP: 192.168.3.1
             Default username: root
-            Default password: AF^EXQ@Fan4B*p
+            Default password: password
             * N1全新安装方法：
              1. cd root
              2. ./install-to-emmc.sh
