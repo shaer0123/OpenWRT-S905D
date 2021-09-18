@@ -142,7 +142,7 @@ jobs:
         KERNEL_VERSION_NAME: 5.14.5_5.10.66_5.4.147
         WHOAMI: 白色の物语
         ENABLE_WIFI_K510: 1
-        OPENWRT_VER: R21.9.15
+        OPENWRT_VER: R21.9.18
 
     - name: copy update files
       run: |
