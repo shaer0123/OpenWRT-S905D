@@ -12,7 +12,7 @@
 
 > 当前内核：5.4.150|5.10.70|5.14.9
 
-[![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-S905D/Build%20OpenWrt?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-S905D/actions)
+[![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-S905D/Build%20OpenWrt%20for%20N1?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-S905D/actions)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/Aibx/OpenWRT-S905D?style=for-the-badge&label=Download)](https://github.com/Aibx/OpenWRT-S905D/releases/latest)
 - 本项目为斐讯N1固件自动编译打包脚本仓库，每日0:30 UTC(北京时间8:30)和12:30 UTC(北京时间20:30)自动编译，预计4小时完成编译工作
 - 内含精选Vssr、SSRPlus、Passwall、京东签到、Clash、Adguard、去广告、迅雷快鸟、网易UU等绝大多数常用插件，包含仓库内基本全部的主题，每日跟随仓库软件编译
