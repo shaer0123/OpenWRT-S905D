@@ -147,7 +147,7 @@ jobs:
     - name: copy update files
       run: |
         cd /opt/openwrt_packit
-        sudo cp files/update-amlogic-openwrt.sh tmp/update-amlogic-openwrt.sh
+        sudo cp files/update-amlogic-openwrt.sh output/update-amlogic-openwrt.sh
 
     - name: Upload OpenWrt Firmware to Releases
       uses: softprops/action-gh-release@v1
