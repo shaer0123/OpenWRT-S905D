@@ -10,7 +10,7 @@
 
 > 默认网关：192.168.6.1 默认密码：password
 
-> 当前内核：5.4.176|5.10.96|5.15.19|5.16.5
+> 当前内核：5.4.178|5.10.99|5.15.22|5.16.8
 
 [![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-S905D/Build%20OpenWRT%20for%20N1?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-S905D/actions)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/Aibx/OpenWRT-S905D?style=for-the-badge&label=Download)](https://github.com/Aibx/OpenWRT-S905D/releases/latest)
