@@ -139,7 +139,7 @@ jobs:
       env:
         OPENWRT_ARMVIRT: openwrt/bin/targets/*/*/*.tar.gz
         PACKAGE_SOC: s905d
-        KERNEL_VERSION_NAME: 5.4.188_5.10.111_5.15.39_5.17.7
+        KERNEL_VERSION_NAME: 5.4.188_5.10.111_5.15.40_5.17.8
         WHOAMI: 白色の物语
         ENABLE_WIFI_K510: 1
         OPENWRT_VER: R22.05.20
