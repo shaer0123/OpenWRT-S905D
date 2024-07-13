@@ -24,4 +24,4 @@ sed -i 's/192.168.1.1/192.168.1.1/g' package/base-files/files/bin/config_generat
 # 3.Set the suffix of the OPENWRT files in your github.com Releases
 # sed -i "s|.img.gz|.OPENWRT_SUFFIX|g" package/luci-app-amlogic/root/etc/config/amlogic
 # 4.Set the download path of the kernel in your github.com repository
-# sed -i "s|opt/kernel|https://github.com/Aibx/OpenWRT-S905D/opt/kernel|g" package/luci-app-amlogic/root/etc/config/amlogic
+sed -i "s|opt/kernel|https://github.com/Aibx/OpenWRT-S905D/opt/kernel|g" package/luci-app-amlogic/root/etc/config/amlogic
